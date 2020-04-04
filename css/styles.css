@@ -1,0 +1,43 @@
+/************************TAG SELECTORS*************************/
+body {
+  background-color: #dbe2ef;
+}
+
+hr {
+  border-style: none;
+  border-top-style:dotted;
+  border-color: #f9f7f7;
+  border-width: 10px;
+  width: 80%;
+}
+
+/* Using Pseudo-class :hover for "a" */
+a:hover{
+  color: red;
+}
+
+h1 {
+  color: #3f72af;
+}
+
+h2 {
+  color: #3f72af;
+}
+
+h3 {
+  color: #112d4e;
+}
+
+/************************CLASS SELECTORS*************************/
+/* example, use class="bacon" etc
+.classname{
+  color: blue;
+}
+*/
+
+/************************ID SELECTORS*************************/
+/* example, use id="heading" etc
+#heading{
+  color: blue;
+}
+*/
